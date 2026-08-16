@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Shell(git:*)",
+      "Shell(git commit -F - <<'EOF' Add Coding Practice JS files and misc scripts Co-authored-by: CommandCodeBot <noreply@commandcode.ai> EOF)",
+      "powershell"
+    ],
+    "deny": [],
+    "defaultMode": "default"
+  }
+}
