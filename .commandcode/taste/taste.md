@@ -1,4 +1,1 @@
-# Taste (Continuously Learned by [CommandCode][cmd])
-
-[cmd]: https://commandcode.ai/
-
+- Uses Git and GitHub for version control; expects changes to be committed and pushed to GitHub. Confidence: 0.8
